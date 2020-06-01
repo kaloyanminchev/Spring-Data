@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<users>
+    <user>
+        <first_name>Koko</first_name>
+        <lastName>Minchev</lastName>
+        <city>Dobrich</city>
+    </user>
+    <user>
+        <first_name>Kamen</first_name>
+        <lastName>Jelev</lastName>
+        <city>Varna</city>
+    </user>
+</users>

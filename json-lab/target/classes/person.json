@@ -1,0 +1,12 @@
+{
+  "name": "Ivan",
+  "phoneNumbers": [
+    "1111",
+    "3333",
+    "2222"
+  ],
+  "addressDto": {
+    "city": "Sofia",
+    "country": "Bulgaria"
+  }
+}

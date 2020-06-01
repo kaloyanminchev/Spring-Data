@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="783afbcb-40d4-4667-af3e-4b98a05a8a11" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - @localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - @localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Y1ny6saeIUXC6sQt67jIxD0UOP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1582105533225" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../hibernate-code-first" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Application.Homework">
+    <configuration name="Homework" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo.Homework" />
+      <module name="dbAppsIntro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo.Main" />
+      <module name="dbAppsIntro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Homework" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:MySQL - @localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:MySQL - @localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@242b4da0" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:MySQL - @localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@7741577c" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="783afbcb-40d4-4667-af3e-4b98a05a8a11" name="Default Changelist" comment="" />
+      <created>1581754320674</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581754320674</updated>
+      <workItem from="1582119227526" duration="1846000" />
+      <workItem from="1582122456714" duration="85000" />
+      <workItem from="1582469460791" duration="195000" />
+      <workItem from="1582469816474" duration="1501000" />
+      <workItem from="1582558265324" duration="538000" />
+      <workItem from="1582558832762" duration="31000" />
+      <workItem from="1582571542652" duration="102000" />
+      <workItem from="1582751192138" duration="115000" />
+      <workItem from="1582894860215" duration="606000" />
+      <workItem from="1584435466110" duration="51000" />
+      <workItem from="1590825927761" duration="17000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="518" y="150" key="FileChooserDialogImpl" timestamp="1590825943230">
+      <screen x="0" y="0" width="1475" height="789" />
+    </state>
+    <state x="518" y="150" key="FileChooserDialogImpl/0.0.1475.789@0.0.1475.789" timestamp="1590825943230" />
+    <state width="1431" height="219" key="GridCell.Tab.0.bottom" timestamp="1582471324185">
+      <screen x="0" y="0" width="1475" height="789" />
+    </state>
+    <state width="1431" height="219" key="GridCell.Tab.0.bottom/0.0.1475.789@0.0.1475.789" timestamp="1582471324185" />
+    <state width="1431" height="219" key="GridCell.Tab.0.center" timestamp="1582471324185">
+      <screen x="0" y="0" width="1475" height="789" />
+    </state>
+    <state width="1431" height="219" key="GridCell.Tab.0.center/0.0.1475.789@0.0.1475.789" timestamp="1582471324185" />
+    <state width="1431" height="219" key="GridCell.Tab.0.left" timestamp="1582471324185">
+      <screen x="0" y="0" width="1475" height="789" />
+    </state>
+    <state width="1431" height="219" key="GridCell.Tab.0.left/0.0.1475.789@0.0.1475.789" timestamp="1582471324185" />
+    <state width="1431" height="219" key="GridCell.Tab.0.right" timestamp="1582471324185">
+      <screen x="0" y="0" width="1475" height="789" />
+    </state>
+    <state width="1431" height="219" key="GridCell.Tab.0.right/0.0.1475.789@0.0.1475.789" timestamp="1582471324185" />
+    <state width="203" height="457" key="HiddenNamespacesPopup" timestamp="1582470559557">
+      <screen x="0" y="0" width="1475" height="789" />
+    </state>
+    <state width="203" height="457" key="HiddenNamespacesPopup/0.0.1475.789@0.0.1475.789" timestamp="1582470559557" />
+    <state x="622" y="285" width="315" height="234" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1582470311824">
+      <screen x="0" y="0" width="1475" height="789" />
+    </state>
+    <state x="622" y="285" width="315" height="234" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1475.789@0.0.1475.789" timestamp="1582470311824" />
+    <state x="451" y="223" key="com.intellij.ide.util.TipDialog" timestamp="1582558265480">
+      <screen x="0" y="0" width="1475" height="789" />
+    </state>
+    <state x="451" y="223" key="com.intellij.ide.util.TipDialog/0.0.1475.789@0.0.1475.789" timestamp="1582558265480" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+</project>
